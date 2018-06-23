@@ -2,9 +2,9 @@
 
 This is the assignment for week 1 on Exploratory data analysis.
 
-* Source data is on folder <data>
-* Source code files are on folder <code>
-* Target plots are on folder <plots>
+* Source data is on folder **_data_**
+* Source code files are on folder **_code_**
+* Target plots are on folder **_plots_**
 
 
 
